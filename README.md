@@ -77,6 +77,4 @@ This project analyzes Amazon product data to uncover insights related to pricing
 - Load the dataset and execute the cleaning and analysis steps.
 - Generate visualizations to interpret the insights.
 - Modify and extend the analysis based on specific business questions.
-- This project provides a comprehensive analysis of Amazon products, helping businesses and consumers make informed decisions based on product pricing, discounts, and customer feedback.
-
 
